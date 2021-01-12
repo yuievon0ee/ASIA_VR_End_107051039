@@ -4,13 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.tag == "布偶") 
-        {
-            print("一號燈爆掉");
-        }
-    }
+
 
     public void RestartGame()
     {

@@ -6,6 +6,14 @@ TagManager:
   tags:
   - "\u7F50\u5B50"
   - "\u5E03\u5076"
+  - projectile
+  - FxTemporaire
+  - Doll
+  - Light1
+  - Light2
+  - Light3
+  - Light4
+  - LightR
   layers:
   - Default
   - TransparentFX
